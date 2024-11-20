@@ -23,7 +23,8 @@ JavaScript
 
 How to View
 
-To experience "Will You Be My Valentine?", simply visit https://byquangthanh.github.io/valentine.github.io/ from any modern web browser.
+To experience "Will You Be My Valentine?", simply visit.  https://byquangthanh.github.io/valentine.github.io/ 
+from any modern web browser.
 
 How to Contribute
 
